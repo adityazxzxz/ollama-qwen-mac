@@ -15,13 +15,13 @@ Install langsung tanpa clone repository:
 ### Menggunakan curl
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<username>/<repo>/main/install.sh | bash
+curl -fsSL https://github.com/adityazxzxz/ollama-qwen-mac/releases/download/v1.0.0/install.sh | bash
 ```
 
 ### Menggunakan wget
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/<username>/<repo>/main/install.sh | bash
+wget -qO- https://github.com/adityazxzxz/ollama-qwen-mac/releases/download/v1.0.0/install.sh | bash
 ```
 
 ---
